@@ -11,4 +11,4 @@ visual.py muestra la interfaz grafica.
 main.py contiene los principales experimentos ejecutados.
 
 
-La carpeta "muestra" tiene algunos de los .wav del corpus por cada categoria.
+La carpeta "muestra" tiene algunos de los .wav del corpus separados por categoria.
