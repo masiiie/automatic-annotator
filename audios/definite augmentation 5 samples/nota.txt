@@ -1,0 +1,4 @@
+* 18 entonemas
+* 5 audios por entonema de definite
+* 14 transformaciones
+* 5 muestras por cada transformacion
