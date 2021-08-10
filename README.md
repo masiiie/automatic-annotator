@@ -1,11 +1,10 @@
-# Anotador-automatico-para-la-cadena-hablada-del-espa-ol-de-Cuba
-Contempla la tipologia de entonemas establecida por la Dra.C. Raquel M. Garcia Riveron.
+# Machine Learning to Classify Intonemes into Speech Segments in Spanish
 
+It is about the implementation in Python of a tool to automatically classify speech segments that contemplate unitary phrases according to the typology of intonations established by the renowned Cuban intonology Dra.C. Raquel M. García Riverón for the Spanish spoken in Havana.
 
-La solucion es dada con el uso de Aprendizaje Automatico, Teoria Wavelet y Aumento de Datos.
+The solution is given with the use of Machine Learning, Wavelet Theory and Data Augmentation.
 
-
-visual.py muestra la interfaz grafica.
+The graphical interface is implemented in the visual.py file.
 
 
 main.py contiene los principales experimentos ejecutados.
