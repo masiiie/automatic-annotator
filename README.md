@@ -4,10 +4,13 @@ It is about the implementation in Python of a tool to automatically classify spe
 
 The solution is given with the use of Machine Learning, Wavelet Theory and Data Augmentation.
 
-The graphical interface is implemented in the visual.py file.
+The graphical interface is shown by executing:
+
+```bash
+python visual.py
+```
+
+The [main.py](./main.py) file contains the main experiments run.
 
 
-main.py contiene los principales experimentos ejecutados.
-
-
-La carpeta "muestra" tiene algunos de los .wav del corpus separados por categoria.
+The [muestra](./muestra) folder has some of the **.wav** audio segments from the corpus separated by category.
